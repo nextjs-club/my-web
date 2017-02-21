@@ -2,5 +2,5 @@
 
 [WEB开发基础最佳实践手册](http://wf.uisdc.com/cn/)
 
-[https://developers.google.com/web/showcase/](https://developers.google.com/web/)
+[Learn How to Develop the Next Generation of Applications for the Web](https://developers.google.com/web/)
 
